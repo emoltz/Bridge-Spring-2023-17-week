@@ -2,7 +2,10 @@
 using namespace std;
 
 int main() {
-    cout << "Actually, I want to write somethign else!";
-    cout << "Hello world!";
+    int i = 5;
+    i++;
+    int j = 10;
+    i++;
+    j++;
     return 0;
 }
